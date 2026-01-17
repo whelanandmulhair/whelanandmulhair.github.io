@@ -8,12 +8,10 @@ layout: default
 
 <body>
 <h1>Date & time</h1>
-<p>Our party will be held in Glossop on 6th June 2026. There will be drop-in drinks at our house from 4pm-7pm and the party will be 7pm-late.</p>
-  <p> So now I am interested in the AR and VR mountain of work, since there is still a long way to go, I want to jump in and see
-    how big of a splash I can make.</p>
+<p>Our party will be held in Glossop on 6th June 2026. There will be drop-in drinks at our house from 4pm-7pm and the reception party will be 7pm-late.</p>
 
 <h1>Location</h1>
-<p>The reception will be held in [Distant Hills Brewery](https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7). This is a 5 minute walk from [our house](https://maps.app.goo.gl/DtEAmho2y8iPSxwf8). The reception will be held in the upstairs section of the brewery, so there will be stairs there. Buffet style food will be served from 7pm.</p>
+<p>The reception will be held in [here](https://www.distanthillsbrewing.co.uk/) [Distant Hills Brewery](https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7). This is a 5 minute walk from [our house](https://maps.app.goo.gl/DtEAmho2y8iPSxwf8). The reception will be held in the upstairs section of the brewery, so there will be stairs there. Buffet style food will be served from 7pm.</p>
   <p> Parking is limited near our house, there is a [small car park](https://maps.app.goo.gl/AFxA2ZwbJrud6p197) nearby, otherwise .</p>
 
 
