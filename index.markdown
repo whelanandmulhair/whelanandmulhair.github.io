@@ -8,7 +8,7 @@ layout: default
 
 <body>
 <h1>Date & time</h1>
-<p>Our party will be held in Glossop on 6th June 2026. There will be drop-in drinks at <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a> (4 Thorpe street, SK137RW)from 4pm-7pm and the reception party will be 7pm-late.</p>
+<p>Our party will be held in Glossop on 6th June 2026, with reception starting from 7pm. There will be casual drop-in drinks at <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a> (4 Thorpe street, SK137RW) from 4pm-7pm for anyone who is early/needs to leave early.</p>
 
 <h1>Location</h1>
 <p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery </a>. This is a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a>. The reception will be held in the upstairs section of the brewery, so there will be stairs there. Buffet style food will be served from 7pm.</p>
