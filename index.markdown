@@ -30,8 +30,9 @@ layout: default
 <h1>Gifts</h1>
 <p>Please do not give us any gifts. If you wish to give something you can donate to <a href="https://thebraintumourcharity.org/donate"> The Brain Tumour Charity</a> or <a href="https://www.reubensretreat.org/get-involved/donate/donation-form/"> Reubens retreat</a> on our behalf (or any other charity of your choice).</p>
 
-<h1>If you have any questions feel free to email us: whelanandmulhair@yahoo.com</h1>
+<h3>Any questions? Email us: whelanandmulhair@yahoo.com</h3>
 
 </body>
 
-![image](assets/images/invite.png)
+#![image](assets/images/invite.png)
+<img align = "right" src="/assets/images/invite.png" alt="drawing" width="220"/>
