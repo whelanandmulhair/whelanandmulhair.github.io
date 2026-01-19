@@ -16,7 +16,7 @@ layout: default
 <h1>Location</h1>
 <p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery</a>, a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house</a>. Please note the reception will be held in the upstairs section of the brewery (no lift).
   <p> Buffet style food will be served from 7pm. <b>If you have any dietary requests/allergies please let us know</b>.</p>
-  <p> Parking is limited near our house, there is a <a href="https://maps.app.goo.gl/AFxA2ZwbJrud6p197"> small car park</a> or <a href="https://maps.app.goo.gl/wWujVerD8aPybsZk6"> street parking nearby</a>. Otherwise you can park at <a href="https://maps.app.goo.gl/Kb4xfeyhFeZK9z7f7"> Manor park</a> or in town centre.</p>
+  <p> Parking is limited near our house, there is a <a href="https://maps.app.goo.gl/AFxA2ZwbJrud6p197"> small car park</a> & <a href="https://maps.app.goo.gl/wWujVerD8aPybsZk6"> street parking nearby</a>. Otherwise you can park at <a href="https://maps.app.goo.gl/Kb4xfeyhFeZK9z7f7"> Manor park</a> or in town centre.</p>
 
 
 <h1>Accommodation</h1>
@@ -25,10 +25,10 @@ layout: default
 
 
 <h1>Dress code</h1>
-<p>Dress code is semi-casual. The reception is in a pub, so is pretty chill.</p>
+<p>No dress code. Fiona will wear summer dress, Peter will wear suit & no tie, you can wear whatever makes you happy! The reception is in a pub, so is pretty chill.</p>
 
 <h1>Gifts</h1>
-<p>Please do not give us any gifts. If you wish to give something you can donate to X and Y on our behalf (or another charity of your choice).</p>
+<p>Please do not give us any gifts. If you wish to give something you can donate to <a href="thebraintumourcharity.org/donate"> The Brain Tumour Charity</a> or <a href=""> X</a> on our behalf (or another charity of your choice).</p>
 
 </body>
 
