@@ -13,7 +13,8 @@ layout: default
   <p>There will be casual drop-in drinks at <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a> (4 Thorpe street, SK137RW) from 4pm-7pm for anyone who is early/needs to leave early.</p>
 
 <h1>Location</h1>
-<p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery </a>, a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a>. The reception will be held in the upstairs section of the brewery, so there will be stairs there. Buffet style food will be served from 7pm.</p>
+<p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery</a>, a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a>. The reception will be held in the upstairs section of the brewery, so there will be stairs there.
+  <p> Buffet style food will be served from 7pm. If you have any dietary requests/allergies please let us know..</p>
   <p> Parking is limited near our house, there is a <a href="https://maps.app.goo.gl/AFxA2ZwbJrud6p197"> small car park </a> nearby, otherwise .</p>
 
 
